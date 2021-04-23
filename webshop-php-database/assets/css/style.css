@@ -1,0 +1,11 @@
+.product{
+
+    display: inline-block;
+    margin: 10px;
+    background-color: green;
+    border: 5px solid red;
+}
+
+body  {
+    background-color: lightsalmon;
+  }
